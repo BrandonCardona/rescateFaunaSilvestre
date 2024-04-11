@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/salas.iba/Documents/Unreal Projects/rescateFaunaSilvestre-main/Content/Nivel1.umap",
 				"C:/Users/salas.iba/Documents/Unreal Projects/rescateFaunaSilvestre-main/Content/Nivel2.umap",
 				"C:/Users/salas.iba/Documents/Unreal Projects/rescateFaunaSilvestre-main/Content/Assets/Maps/EscenarioCAVRehabilitacion/1_Terrains_and_Fences_16x16_TileSet.uasset",
@@ -24,6 +25,8 @@
 				"C:/Users/salas.iba/Documents/Unreal Projects/rescateFaunaSilvestre-main/Content/Assets/Maps/EscenarioSuburbio/mapaSuburbio.uasset",
 				"C:/Users/salas.iba/Documents/Unreal Projects/rescateFaunaSilvestre-main/Content/Assets/Maps/EscenarioCAVRehabilitacion/ME_Singles_Worksite_16x16_Door_1_2_TileSet.uasset",
 				"C:/Users/salas.iba/Documents/Unreal Projects/rescateFaunaSilvestre-main/Content/Assets/Maps/EscenarioCAVRehabilitacion/ME_Singles_Worksite_16x16_Door_1_2.uasset",
+=======
+>>>>>>> 0c47a3154f37ea65d9ff6e917f6e7b8787c71176
 				"C:/Users/User/Documents/Unreal Projects/BrandonCardona_Fauna/Content/Nivel1.umap",
 				"C:/Users/User/Documents/Unreal Projects/BrandonCardona_Fauna/Content/Assets/Maps/EscenarioCalle/Modern_Exteriors_RTU_2_layer_1_16x16.uasset",
 				"C:/Users/User/Documents/Unreal Projects/BrandonCardona_Fauna/Content/Assets/Maps/EscenarioCalle/Modern_Exteriors_RTU_1_layer_2_16x16.uasset",
