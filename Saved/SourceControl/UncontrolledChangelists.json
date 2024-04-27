@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/salas.iba/Documents/Unreal Projects/rescateFaunaSilvestre-main/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/salas.iba/Documents/Unreal Projects/rescateFaunaSilvestre-main/Content/Assets/Maps/EscenarioCalle/mapaCiudad.uasset",
+				"C:/Users/salas.iba/Documents/Unreal Projects/rescateFaunaSilvestre-main/Content/Nivel1.umap",
+				"C:/Users/salas.iba/Documents/Unreal Projects/rescateFaunaSilvestre-main/Content/Assets/Maps/EscenarioCalle/ME_Singles_City_Props_16x16_Danger_Sign_1_TileSet.uasset",
+				"C:/Users/salas.iba/Documents/Unreal Projects/rescateFaunaSilvestre-main/Content/Assets/Maps/EscenarioCalle/ME_Singles_City_Props_16x16_Danger_Sign_4_TileSet.uasset",
 				"C:/Users/User/Documents/Unreal Projects/BrandonCardona_Fauna/Content/Assets/Maps/EscenarioCAVRehabilitacion/ME_Singles_Camping_32x32_Rock_2.uasset",
 				"C:/Users/User/Documents/Unreal Projects/BrandonCardona_Fauna/Content/Assets/Maps/EscenarioCAVRehabilitacion/ME_Singles_Camping_32x32_Rock_2_TileSet.uasset",
 				"C:/Users/User/Documents/Unreal Projects/BrandonCardona_Fauna/Content/Assets/Maps/EscenarioCAVRehabilitacion/ME_Singles_Camping_32x32_Tree_121_TileSet.uasset",
